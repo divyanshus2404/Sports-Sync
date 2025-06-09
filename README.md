@@ -45,7 +45,8 @@ The app acts as a digital connector for students, enhancing the campus sports cu
 ---
 
 ## 📷 Demo
-![image](https://github.com/user-attachments/assets/4354600f-fe0e-4edd-880c-f61559231fe9)
+
+![image](https://github.com/user-attachments/assets/5cba6ff8-c03d-4464-80ae-e4e4c6eeb327)
 
 ![UI](https://github.com/user-attachments/assets/debe265b-2042-4443-8b15-c77116309578)
 
