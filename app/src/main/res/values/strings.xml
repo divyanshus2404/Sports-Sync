@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">STD</string>
+    //Headings
+    <string name="heading_one">CONNECTING PEOPLE...</string>
+    <string name="heading_two">PICK A SPORT</string>
+    <string name="heading_three">CREATE/JOIN ROOM</string>
+    <string name="heading_fourth">ENJOY YOUR DAY</string>
+
+    //Description
+    <string name="desc_one">Wanna play and enjoy with random interesting people? </string>
+    <string name="desc_two">Select a sport from a wide range of choices</string>
+    <string name="desc_three">Invite or join other people through a room</string>
+    <string name="desc_fourth"></string>
+
+</resources>
